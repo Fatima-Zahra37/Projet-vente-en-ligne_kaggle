@@ -22,26 +22,18 @@ de croissance, la saisonnalité et le profil client.
 ---
 
 ## 📂 Structure du projet
+```text
 Projet-vente-en-ligne_kaggle/
-
 │
-
 ├── data/
-
 │   └── online_retail_clean.csv       # Dataset source (Kaggle)
-
 │
-
 ├── notebooks/
-
 │   └── analyse.ipynb                 # Notebook principal d'analyse
-
 │
-
 ├── requirements.txt                  # Librairies Python utilisées
-
 └── README.md                         # Documentation du projet
----
+```
 
 ## 🗺️ Plan d'analyse
 
