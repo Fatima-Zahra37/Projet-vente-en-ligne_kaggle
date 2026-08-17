@@ -45,7 +45,7 @@ Projet-vente-en-ligne_kaggle/
 | 4 | Analyse produits | ✅ Terminé |
 | 5 | Segmentation clients RFM | ✅ Terminé |
 | 6 | Analyse géographique | ✅ Terminé |
-| 7 | KPI en SQL — BigQuery | 🔜 En cours |
+| 7 | KPI en SQL — BigQuery | ✅ Terminé |
 | 8 | Dashboard Power BI | ✅ Terminé |
 
 ---
