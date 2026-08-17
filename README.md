@@ -100,5 +100,5 @@ Projet-vente-en-ligne_kaggle/
 
 ## 👩‍💻 Auteure
 
-**Fatima-Zahra** — En reconversion vers le métier de Data Analyst
+Fatima-Zahra — Data Analyst
 [GitHub](https://github.com/Fatima-Zahra37)
