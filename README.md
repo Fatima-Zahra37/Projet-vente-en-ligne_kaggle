@@ -4,8 +4,7 @@
 
 Ce projet est une analyse complète d'un dataset de vente en ligne
 issu de Kaggle (Online Retail Dataset — UCI Machine Learning Repository).
-Il a été réalisé dans le cadre de ma reconversion professionnelle
-en tant que Data Analyst.
+Il a été réalisé dans le cadre d'un projet personnel de portfolio Data Analyst.
 
 L'objectif est d'analyser la performance commerciale d'un e-commerce
 B2B britannique sur la période 2010-2011, d'identifier les leviers
