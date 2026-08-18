@@ -43,18 +43,6 @@ Projet-vente-en-ligne_kaggle/
 └── README.md                         ← Documentation du projet
 ```
 
-## 🗺️ Plan d'analyse
-
-| Étape | Description | Statut |
-|-------|-------------|--------|
-| 1 | Exploration & aperçu général | ✅ Terminé |
-| 2 | Nettoyage des données | ✅ Terminé |
-| 3 | Analyse temporelle des ventes | ✅ Terminé |
-| 4 | Analyse produits | ✅ Terminé |
-| 5 | Segmentation clients par valeur | ✅ Terminé |
-| 6 | Analyse géographique | ✅ Terminé |
-| 7 | KPI en SQL — BigQuery | ✅ Terminé |
-| 8 | Dashboard Power BI | ✅ Terminé |
 
 ## 📊 Conventions métier
 
