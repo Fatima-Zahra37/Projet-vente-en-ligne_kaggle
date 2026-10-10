@@ -115,9 +115,10 @@ Découpage en quartiles (1 à 4) sur trois dimensions : récence, fréquence et 
 Score global → 5 segments de Champion à Inactif.
 
 **Validation BigQuery :**
-Les KPI calculés en Python ont été recalculés en SQL BigQuery.
-Écart CA : £11,062 (0,1%) — expliqué par une ligne ignorée à l'import.
-Les ratios restent stables, confirmant la cohérence de l'analyse.
+Les KPI calculés en Python ont été recalculés en SQL BigQuery : nombre de lignes,
+CA total et CA de novembre 2011 identiques à l'unité près (écart nul).
+Un premier import ignorait une ligne (facture « A563185 », 11 062 £) car BigQuery
+avait deviné un type numérique pour InvoiceNo : le schéma est désormais défini à la main.
 
 **Dashboard Power BI :**
 Modèle avec table `Dim_Date` reliée à la table de faits `Online_Retail`.
