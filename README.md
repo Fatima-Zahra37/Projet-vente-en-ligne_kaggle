@@ -66,6 +66,10 @@ Projet-vente-en-ligne_kaggle/
 | Panier moyen | CA ÷ Nb commandes |
 | Score de valeur client | Score Récence + Fréquence + Montant (1 à 4 par dimension) |
 
+## 📊 Aperçu du tableau de bord
+
+![Tableau de bord Power BI](images/dashboard_kaggle.png)
+
 ## 📊 Résultats clés
 
 ### 💰 Chiffre d'affaires
