@@ -37,6 +37,8 @@ Projet-vente-en-ligne_kaggle/
 ├── notebooks/
 │   └── analyse.ipynb                 ← EDA, nettoyage, analyses, segmentation clients
 │
+├── sql/                              ← Requêtes BigQuery (KPI et validation)
+|
 ├── powerbi/
 │   └── dashboard_kaggle.pbix         ← Dashboard Power BI interactif
 │
